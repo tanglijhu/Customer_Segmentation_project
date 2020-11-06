@@ -64,7 +64,7 @@ from sagemaker import KMeans
 import mxnet as mx
 """
 
-The instance for running SageMake Notebook is "ml.t2.2xlarge".  
+The instance for running SageMake Notebook is "ml.t2.2xlarge" and the kernal used is "conda_mxnet_p36". 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 IV: Data Files: 
